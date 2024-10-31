@@ -1,0 +1,11 @@
+C:\Users\Ali\source\repos\SecondHandBazar\SecondHandBazar.Domain\bin\Debug\net8.0\SecondHandBazar.Domain.deps.json
+C:\Users\Ali\source\repos\SecondHandBazar\SecondHandBazar.Domain\bin\Debug\net8.0\SecondHandBazar.Domain.dll
+C:\Users\Ali\source\repos\SecondHandBazar\SecondHandBazar.Domain\bin\Debug\net8.0\SecondHandBazar.Domain.pdb
+C:\Users\Ali\source\repos\SecondHandBazar\SecondHandBazar.Domain\obj\Debug\net8.0\SecondHandBazar.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\source\repos\SecondHandBazar\SecondHandBazar.Domain\obj\Debug\net8.0\SecondHandBazar.Domain.AssemblyInfoInputs.cache
+C:\Users\Ali\source\repos\SecondHandBazar\SecondHandBazar.Domain\obj\Debug\net8.0\SecondHandBazar.Domain.AssemblyInfo.cs
+C:\Users\Ali\source\repos\SecondHandBazar\SecondHandBazar.Domain\obj\Debug\net8.0\SecondHandBazar.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\SecondHandBazar\SecondHandBazar.Domain\obj\Debug\net8.0\SecondHandBazar.Domain.dll
+C:\Users\Ali\source\repos\SecondHandBazar\SecondHandBazar.Domain\obj\Debug\net8.0\refint\SecondHandBazar.Domain.dll
+C:\Users\Ali\source\repos\SecondHandBazar\SecondHandBazar.Domain\obj\Debug\net8.0\SecondHandBazar.Domain.pdb
+C:\Users\Ali\source\repos\SecondHandBazar\SecondHandBazar.Domain\obj\Debug\net8.0\ref\SecondHandBazar.Domain.dll
